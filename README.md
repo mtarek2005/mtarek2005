@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtarek2005
 - 👀 I’m interested in C#, TypeScript, Unity, Unreal, VSCode and Visual Studio
-- 📫 How to reach me: https://mtarek2005.github.io
+- 📫 How to reach me: https://mtarek2005.github.io or <a href="https://mstdn.social/@mtarek2005" target="_blank" rel="me" title="Mastodon">@mtarek2005@mstdn.social</a>
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
